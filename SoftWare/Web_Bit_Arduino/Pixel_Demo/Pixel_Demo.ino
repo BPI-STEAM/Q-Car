@@ -1,5 +1,5 @@
 /*************************************************** 
- * Pixel_Test.ino (Version 0.0.1)
+ * Pixel_Demo.ino (Version 0.0.1)
  * This is a WS2812 test example for our Banana Pi Q-car
  * We refer to the code from adafruint
  * If you want to use this code, you need to download the following libraries:

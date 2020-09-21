@@ -1,5 +1,5 @@
 /*************************************************** 
- * Ultrasonic_Test.ino (Version 0.0.1)
+ * Ultrasonic_Demo.ino (Version 0.0.1)
  * This is a ultrasonic sensor test example for our Banana Pi Q-car
  * Copyright (C) 2020 Banana Pi Open Source STEAM education Group
  * https://github.com/BPI-STEAM
